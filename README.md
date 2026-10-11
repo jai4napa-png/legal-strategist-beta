@@ -1,3 +1,9 @@
+## Lawyer Lens v2.7 — interactive question explorer
+
+The new [Lawyer Lens browser app](docs/lawyer-lens.html) contains 363 curated plain-language legal questions plus 811 cross-linked Strategy Arsenal leads (1,174 total). Select one or many questions, explore up to five layers of seven skeptical legal-reasoning lenses, find blind spots, and export a ChatGPT investigation prompt or a local JSON session. This is an offline static client-side prototype; it does not read uploaded case files, access a court, verify legal authority or send data to an AI service.
+
+To use the app, download `docs/lawyer-lens.html` and open it locally. If GitHub Pages is configured, it is served at `https://jai4napa-png.github.io/legal-strategist-beta/lawyer-lens.html`.
+
 # Legal Strategist — ChatGPT Beta
 
 Experimental, source-grounded legal analysis workflow for use within your own ChatGPT account. The companion toolkit includes procedural review, evidence mapping, adversarial analysis, and strategy exploration.
