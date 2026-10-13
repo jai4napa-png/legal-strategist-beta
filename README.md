@@ -1,3 +1,7 @@
+## v2.7.6 — Mandatory form instruction review
+
+The mandatory [v2.7.6 beta patch](docs/downloads/Legal-Strategist-v2.7.6-Form-Instruction-Review-Patch.txt) requires the reviewer to find and actually **read** all official relevant court-form instructions (including distinct INFO sheets and local instructions) before saying a form is procedurally verified. Form-level instructions may specify operational requirements not obvious from governing statutes. The corresponding [P0 procedure-engine issue](https://github.com/jai4napa-png/legal-strategist-beta/issues/1) remains open: the full event-driven deadline tracker, live docket monitoring and notifications are not implemented.
+
 ## Lawyer Lens v2.7 — interactive question explorer
 
 The new [Lawyer Lens browser app](docs/lawyer-lens.html) contains 363 curated plain-language legal questions plus 811 cross-linked Strategy Arsenal leads (1,174 total). Select one or many questions, explore up to five layers of seven skeptical legal-reasoning lenses, find blind spots, and export a ChatGPT investigation prompt or a local JSON session. This is an offline static client-side prototype; it does not read uploaded case files, access a court, verify legal authority or send data to an AI service.
